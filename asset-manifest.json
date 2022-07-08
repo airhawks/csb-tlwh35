@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://airhawks.github.io/csb-tlwh35/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://airhawks.github.io/csb-tlwh35/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://airhawks.github.io/csb-tlwh35/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://airhawks.github.io/csb-tlwh35/static/js/runtime-main.45676c28.js",
+    "runtime-main.js.map": "https://airhawks.github.io/csb-tlwh35/static/js/runtime-main.45676c28.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://airhawks.github.io/csb-tlwh35/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://airhawks.github.io/csb-tlwh35/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://airhawks.github.io/csb-tlwh35/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://airhawks.github.io/csb-tlwh35/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://airhawks.github.io/csb-tlwh35/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45676c28.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
